@@ -81,7 +81,7 @@
                 </dependency>
 
                 <!-- provided dependencies -->
-	<dependencies>
+	
 
                 <dependency>
                         <groupId>javax.servlet</groupId>
